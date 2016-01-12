@@ -1,10 +1,6 @@
-# Seti UI
+# JDS Seti UI
 
-[![Join the chat at https://gitter.im/jesseweed/seti-ui](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jesseweed/seti-ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-A dark colored UI theme for Atom with custom file icons. [Seti Syntax](https://atom.io/themes/seti-syntax) also available.
-
-![Screenshot](https://github.com/jesseweed/seti-ui/raw/master/screenshot.png)
+A dark colored UI theme for Atom based on Seti UI.
 
 
 ### Custom App Icons
@@ -14,15 +10,10 @@ A dark colored UI theme for Atom with custom file icons. [Seti Syntax](https://a
 
 ### Installation
 
-#### Atom Package Manager (APM)
-```bash
-apm install seti-ui
-```
-
 #### Git clone
 ```bash
 cd ~/.atom/packages
-git clone https://github.com/jesseweed/seti-ui --depth=1
+git clone https://github.com/jdsteinbach/seti-ui —depth=1
 ```
 
 ### Currently Supported File Icons
@@ -46,7 +37,7 @@ git clone https://github.com/jesseweed/seti-ui --depth=1
 * Markdown
 * Mustache
 * PHP
-* Procfile
+* Profile
 * Python
 * React
 * Ruby
